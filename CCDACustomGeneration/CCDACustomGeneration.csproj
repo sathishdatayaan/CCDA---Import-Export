@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="HL7SDK">
+      <HintPath>ThirdPartyDll\HL7SDK.dll</HintPath>
+    </Reference>
+    <Reference Include="HL7SDK.Xml.Cda">
+      <HintPath>ThirdPartyDll\HL7SDK.Xml.Cda.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

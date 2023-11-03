@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCDACustomGeneration", "CCDACustomGeneration\CCDACustomGeneration.csproj", "{20D2BE83-AF4C-43E8-B41B-84D543261D39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+		TFS Build - Check-in|Any CPU = TFS Build - Check-in|Any CPU
+		TFS Build - Check-in|x86 = TFS Build - Check-in|x86
+		TFS Build - Nightly|Any CPU = TFS Build - Nightly|Any CPU
+		TFS Build - Nightly|x86 = TFS Build - Nightly|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20D2BE83-AF4C-43E8-B41B-84D543261D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D2BE83-AF4C-43E8-B41B-84D543261D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D2BE83-AF4C-43E8-B41B-84D543261D39}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{20D2BE83-AF4C-43E8-B41B-84D543261D39}.Debug|x86.Build.0 = Debug|Any CPU
+		{20D2BE83-AF4C-43E8-B41B-84D543261D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D2BE83-AF4C-43E8-B41B-84D543261D39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D2BE83-AF4C-43E8-B41B-84D543261D39}.Release|x86.ActiveCfg = Release|Any CPU
+		{20D2BE83-AF4C-43E8-B41B-84D543261D39}.Release|x86.Build.0 = Release|Any CPU
+		{20D2BE83-AF4C-43E8-B41B-84D543261D39}.TFS Build - Check-in|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D2BE83-AF4C-43E8-B41B-84D543261D39}.TFS Build - Check-in|Any CPU.Build.0 = Debug|Any CPU
+		{20D2BE83-AF4C-43E8-B41B-84D543261D39}.TFS Build - Check-in|x86.ActiveCfg = Debug|Any CPU
+		{20D2BE83-AF4C-43E8-B41B-84D543261D39}.TFS Build - Check-in|x86.Build.0 = Debug|Any CPU
+		{20D2BE83-AF4C-43E8-B41B-84D543261D39}.TFS Build - Nightly|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D2BE83-AF4C-43E8-B41B-84D543261D39}.TFS Build - Nightly|Any CPU.Build.0 = Debug|Any CPU
+		{20D2BE83-AF4C-43E8-B41B-84D543261D39}.TFS Build - Nightly|x86.ActiveCfg = Debug|Any CPU
+		{20D2BE83-AF4C-43E8-B41B-84D543261D39}.TFS Build - Nightly|x86.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63A3D8B7-2934-43C1-A3BB-299F915EB8CA}
+	EndGlobalSection
+EndGlobal
